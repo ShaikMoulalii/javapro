@@ -1,4 +1,3 @@
-
 public class cars
 {
     int gear = 1;
@@ -18,6 +17,5 @@ public class cars
     void printStates()
     {
         System.out.println( "gear:" + gear+" speed:" + speed );
-        System.out.println("hlo world");
     }
 }
